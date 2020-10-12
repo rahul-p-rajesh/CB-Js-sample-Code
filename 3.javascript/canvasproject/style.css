@@ -1,0 +1,11 @@
+
+#mainHeading{
+    display: inline;
+    margin: auto 35%;
+}
+#paintbox{
+    
+    border: dotted black 1px;
+    display: inline;
+    margin: 15px 30%;
+}
